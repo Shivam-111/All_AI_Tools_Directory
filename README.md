@@ -1,8 +1,8 @@
 # All_AI_Tools_for-Complete Project Developement
 
 ### 1) Presentation & Productivity.......................................
-https://gamma.app/	  
-https://www.canva.com/templates
+[Gamma] https://gamma.app/	  
+[Canav] https://www.canva.com/templates
 
 ### 2) Generative AI / Coding / Automation
 
